@@ -1,0 +1,11 @@
+[package]
+name = "ophiuchus"
+version = "0.1.0"
+authors = ["Lapin0t <ho33e5@gmail.com>"]
+
+[dependencies]
+sodiumoxide = "^0.0.12"
+serde = "^0.8"
+serde_derive = "^0.8"
+rmp = "^0.7"
+rmp-serde = "^0.8"
